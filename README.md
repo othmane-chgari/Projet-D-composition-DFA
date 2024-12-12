@@ -1,6 +1,6 @@
 # Rapport et Code pour le Projet Decoposition des DFAs
 
-Ce dépôt contient les fichiers relatifs au projet sur les automates finis déterministes (DFA). Vous trouverez les éléments suivants :
+Ce dépôt contient les fichiers relatifs au projet sur la decomposition des automates finis déterministes (DFA). Vous trouverez les éléments suivants :
 
 ## Contenu du Dépôt
 
